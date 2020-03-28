@@ -1,5 +1,5 @@
 {
-  "name": "Create React App Sample",
+  "name": "Chrome extension with react",
   "version": "1.0",
   "manifest_version": 2,
   "browser_action": {

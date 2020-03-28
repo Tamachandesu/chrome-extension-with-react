@@ -27,7 +27,7 @@ module.exports = {
     ]
   },
   plugins: [
-    // copy static files
+    // copy public files
     new CopyWebpackPlugin(
       [
         {
